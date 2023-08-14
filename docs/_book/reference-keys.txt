@@ -1,0 +1,4 @@
+teoría-de-conjuntos
+elementos-basicos
+operaciones-entre-conjuntos
+operaciones-entre-conjuntos-elementos-son-categorías
